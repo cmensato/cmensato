@@ -2,12 +2,14 @@ name: Generate Pacman Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite
-  workflow_dispatch: # Permite rodar manualmente
+    - cron: "0 0 * * *" # Roda automaticamente todo dia à meia-noite
+  workflow_dispatch: # Permite que você rode manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Dá permissão de escrita explicitamente
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v3
@@ -18,11 +20,11 @@ jobs:
           github_user_name: cmensato
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - - name: Push to output branch
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: .
-          force_update: true  # Isso força a criação da branch se ela não existir
+          force_update: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
