@@ -18,10 +18,11 @@ jobs:
           github_user_name: cmensato
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to Output Branch
+      - - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: .
+          force_update: true  # Isso força a criação da branch se ela não existir
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
