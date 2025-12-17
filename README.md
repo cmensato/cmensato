@@ -57,7 +57,7 @@ Hoje estudo **Análise e Desenvolvimento de Sistemas** e complemento minha forma
 - 💼 [LinkedIn](https://www.linkedin.com/in/claudiamensato/)
 
 ###
-![Pacman Graph Light](https://raw.githubusercontent.com/cmensato/cmensato/output/pacman-contribution-graph.svg#gh-light-mode-only)
-![Pacman Graph Dark](https://raw.githubusercontent.com/cmensato/cmensato/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/cmensato/cmensato/output/github-contribution-grid-snake.svg" alt="Pacman Tutorial">
+</div>
 
