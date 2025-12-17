@@ -2,6 +2,28 @@
 
 Analista Contábil em transição para a área de Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas | Foco em Back-end, Dados e Integrações ERP
 
+ ###
+
+ <div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+</div>
+
 ---
 
 ### 🚀 Sobre mim
@@ -33,3 +55,9 @@ Hoje estudo **Análise e Desenvolvimento de Sistemas** e complemento minha forma
 ### 🌐 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/claudiamensato/)
+
+###
+![Pacman Graph Light](https://raw.githubusercontent.com/cmensato/cmensato/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pacman Graph Dark](https://raw.githubusercontent.com/cmensato/cmensato/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
+
