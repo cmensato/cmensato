@@ -1,4 +1,4 @@
-name: Generate Pacman Game
+name: Generate Pacman Labirinto
 
 on:
   schedule:
@@ -14,20 +14,17 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Generate Pacman
-        uses: platane/snk@v3
+      - name: Gerar Labirinto Pacman
+        # Esta versão 'output' é a que mantém o visual do labirinto clássico
+        uses: jasonlong/github-contribution-calendar-action@output
         with:
           github_user_name: cmensato
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#FFFF00&dot_days=#e1e4e8,#9be9a8,#40c463,#30a14e,#216e39
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#FFFF00&palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to Output Branch
+      - name: Salvar na branch output
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
