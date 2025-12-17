@@ -1,8 +1,8 @@
-name: Generate Pacman Labirinto
+name: Generate Pacman Game
 
 on:
   schedule:
-    - cron: "0 0 * * *" 
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,14 +14,14 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Gerar Labirinto Pacman
-        # Esta versão 'output' é a que mantém o visual do labirinto clássico
-        uses: jasonlong/github-contribution-calendar-action@output
+      - name: Generate Pacman Labirinto
+        # Esta versão específica é a que mantém o visual de labirinto com fantasmas
+        uses: jasonlong/github-contribution-calendar-action@v1.4.0
         with:
           github_user_name: cmensato
           github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Salvar na branch output
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
