@@ -1,34 +1,27 @@
-name: Generate Pacman Graph
+name: Generate Pacman Game
 
 on:
-  # Roda automaticamente a cada 24 horas
   schedule:
-    - cron: "0 0 * * *" 
-  
-  # Permite rodar manualmente a qualquer momento
-  workflow_dispatch:
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite
+  workflow_dispatch: # Permite rodar manualmente
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout Repo
         uses: actions/checkout@v3
 
-      - name: Generate Pacman Graph
-        uses: platane/snk@v3
+      - name: Generate Pacman
+        uses: jasonlong/github-contribution-calendar-action@main
         with:
           github_user_name: cmensato
-          outputs: |
-            dist/pacman-contribution-graph.svg
-            dist/pacman-contribution-graph-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push to output branch
+      - name: Push to Output Branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
