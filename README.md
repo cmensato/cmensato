@@ -1,6 +1,6 @@
 # 👩‍💻 Claudia Mensato
 
-Analista Contábil em transição para a área de Tecnologia | Estudante de Análise e Desenvolvimento de Sistemas | Foco em Back-end, Dados e Integrações ERP
+QA Técnico | Testes Web & API | Bug Reports | Qualidade e Segurança de Software
 
  ###
 
