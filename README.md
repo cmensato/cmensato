@@ -36,14 +36,18 @@ Atualmente curso Análise e Desenvolvimento de Sistemas e atuo em projetos prát
 
 Tenho foco em validar comportamento do sistema, consistência de dados e aderência aos requisitos, identificando falhas antes que impactem usuários ou o negócio. Possuo facilidade em analisar regras de negócio e traduzi-las em cenários de teste objetivos e rastreáveis.
 
-🔧 Atuação prática em:
-• Testes funcionais e exploratórios (Web)
+### 🔧 Atuação prática em:
+• Testes funcionais e exploratórios (Web) 
+
 • Testes manuais de APIs REST (HTTP, Postman)
+
 • Criação de test cases e bug reports claros e objetivos
+
 • Análise de falhas, inconsistências e riscos
+
 • Versionamento e documentação com Git e GitHub 
 
-📌 Portfólio técnico com estudos de caso completos disponível no GitHub.
+### 📌 Portfólio técnico com estudos de caso completos disponível no GitHub.
 
 ---
 
