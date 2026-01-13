@@ -34,14 +34,14 @@ Ao longo da carreira, desenvolvi forte perfil analítico, atenção a detalhes e
 
 Atualmente curso Análise e Desenvolvimento de Sistemas e atuo em projetos práticos de QA Técnico, realizando testes manuais em aplicações Web e APIs, criação de casos de teste, documentação de bugs e análise de riscos funcionais e de segurança.
 
-Tenho facilidade em transitar entre regras de negócio e aspectos técnicos, garantindo que sistemas atendam corretamente aos requisitos, com dados confiáveis, comportamento previsível e foco na experiência do usuário.
+Tenho foco em validar comportamento do sistema, consistência de dados e aderência aos requisitos, identificando falhas antes que impactem usuários ou o negócio. Possuo facilidade em analisar regras de negócio e traduzi-las em cenários de teste objetivos e rastreáveis.
 
 🔧 Atuação prática em:
-• Testes Web e exploratórios  
-• Testes manuais de APIs (HTTP, REST, Postman)  
-• Criação de casos de teste e bug reports  
-• Análise de riscos e falhas funcionais  
-• Git e GitHub para versionamento e documentação  
+• Testes funcionais e exploratórios (Web)
+• Testes manuais de APIs REST (HTTP, Postman)
+• Criação de test cases e bug reports claros e objetivos
+• Análise de falhas, inconsistências e riscos
+• Versionamento e documentação com Git e GitHub 
 
 📌 Portfólio técnico com estudos de caso completos disponível no GitHub.
 
