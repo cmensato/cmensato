@@ -28,27 +28,22 @@ QA Técnico | Testes Web & API | Bug Reports | Qualidade e Segurança de Softwar
 
 ### 🚀 Sobre mim
 
-Atuei por anos na área contábil com experiência prática em controladoria, conciliações, sistemas ERP (Protheus, Omie, Domínio) e automações de processos financeiros. Decidi transformar essa bagagem em soluções técnicas e estou em transição para o universo da programação.
+Profissional com sólida experiência em processos contábeis e controladoria, atuando diretamente com conciliações, validação de dados financeiros e uso intensivo de sistemas ERP (Protheus, Omie e Domínio).
 
-Hoje estudo **Análise e Desenvolvimento de Sistemas** e complemento minha formação com cursos práticos pela **Alura**, aprendendo **Python, SQL, lógica de programação e APIs**.
+Ao longo da carreira, desenvolvi forte perfil analítico, atenção a detalhes e senso crítico para identificar inconsistências, riscos e falhas em processos — competências que hoje aplico de forma prática na área de tecnologia, com foco em Qualidade de Software (QA).
 
----
+Atualmente curso Análise e Desenvolvimento de Sistemas e atuo em projetos práticos de QA Técnico, realizando testes manuais em aplicações Web e APIs, criação de casos de teste, documentação de bugs e análise de riscos funcionais e de segurança.
 
-### 🧩 Tecnologias em estudo
+Tenho facilidade em transitar entre regras de negócio e aspectos técnicos, garantindo que sistemas atendam corretamente aos requisitos, com dados confiáveis, comportamento previsível e foco na experiência do usuário.
 
-- Python (foco em back-end e automação)
-- SQL (consultas, estrutura de dados)
-- Git e GitHub
-- Power BI
-- APIs REST
-- Lógica de Programação
+🔧 Atuação prática em:
+• Testes Web e exploratórios  
+• Testes manuais de APIs (HTTP, REST, Postman)  
+• Criação de casos de teste e bug reports  
+• Análise de riscos e falhas funcionais  
+• Git e GitHub para versionamento e documentação  
 
----
-
-### 📌 Em breve aqui:
-- Projetos práticos conectando contabilidade e programação
-- Dashboards com dados financeiros
-- Simulações de integrações ERP com Python
+📌 Portfólio técnico com estudos de caso completos disponível no GitHub.
 
 ---
 
