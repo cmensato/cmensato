@@ -1,0 +1,55 @@
+# 👩‍💻 Claudia Mensato
+
+QA Técnico | Testes Web & API | Bug Reports | Qualidade e Segurança de Software
+
+ ###
+
+ <div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="60" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+</div>
+
+---
+
+### 🚀 Sobre mim
+
+Profissional com sólida experiência em processos contábeis e controladoria, atuando diretamente com conciliações, validação de dados financeiros e uso intensivo de sistemas ERP (Protheus, Omie e Domínio).
+
+Ao longo da carreira, desenvolvi forte perfil analítico, atenção a detalhes e senso crítico para identificar inconsistências, riscos e falhas em processos — competências que hoje aplico de forma prática na área de tecnologia, com foco em Qualidade de Software (QA).
+
+Atualmente curso Análise e Desenvolvimento de Sistemas e atuo em projetos práticos de QA Técnico, realizando testes manuais em aplicações Web e APIs, criação de casos de teste, documentação de bugs e análise de riscos funcionais e de segurança.
+
+Tenho foco em validar comportamento do sistema, consistência de dados e aderência aos requisitos, identificando falhas antes que impactem usuários ou o negócio. Possuo facilidade em analisar regras de negócio e traduzi-las em cenários de teste objetivos e rastreáveis.
+
+### 🔧 Atuação prática em:
+• Testes funcionais e exploratórios (Web) 
+
+• Testes manuais de APIs REST (HTTP, Postman)
+
+• Criação de test cases e bug reports claros e objetivos
+
+• Análise de falhas, inconsistências e riscos
+
+• Versionamento e documentação com Git e GitHub 
+
+### 📌 Portfólio técnico com estudos de caso completos disponível no GitHub.
+
+---
+
+### 🌐 Vamos nos conectar?
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/claudiamensato/)
