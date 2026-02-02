@@ -27,27 +27,25 @@ QA Técnico | Testes Web & API | Bug Reports | Qualidade e Segurança de Softwar
 
 ### 🚀 Sobre mim
 
-Profissional com sólida experiência em processos contábeis e controladoria, atuando diretamente com conciliações, validação de dados financeiros e uso intensivo de sistemas ERP (Protheus, Omie e Domínio).
+Sou profissional com sólida experiência em processos contábeis e controladoria, especializado em conciliações, validação de dados financeiros e uso avançado de sistemas ERP (Protheus, Omie e Domínio).
 
-Ao longo da carreira, desenvolvi forte perfil analítico, atenção a detalhes e senso crítico para identificar inconsistências, riscos e falhas em processos — competências que hoje aplico de forma prática na área de tecnologia, com foco em Qualidade de Software (QA).
+Ao longo da minha carreira, desenvolvi um perfil analítico aguçado, atenção a detalhes e senso crítico para identificar inconsistências, riscos e falhas em processos — competências que hoje aplico na área de tecnologia, com foco em Quality Assurance (QA).
 
-Atualmente curso Análise e Desenvolvimento de Sistemas e atuo em projetos práticos de QA Técnico, realizando testes manuais em aplicações Web e APIs, criação de casos de teste, documentação de bugs e análise de riscos funcionais e de segurança.
+Atualmente, curso Análise e Desenvolvimento de Sistemas e Formação Full Stack Pro no DevClub, e atuo em projetos práticos de QA técnico, com foco em:
 
-Tenho foco em validar comportamento do sistema, consistência de dados e aderência aos requisitos, identificando falhas antes que impactem usuários ou o negócio. Possuo facilidade em analisar regras de negócio e traduzi-las em cenários de teste objetivos e rastreáveis.
+- Testes funcionais e exploratórios em aplicações web  
 
-### 🔧 Atuação prática em:
-• Testes funcionais e exploratórios (Web) 
+- Testes manuais de APIs REST (HTTP, Postman)  
 
-• Testes manuais de APIs REST (HTTP, Postman)
+- Criação de casos de teste e relatórios de bugs claros e objetivos  
 
-• Criação de test cases e bug reports claros e objetivos
+- Análise de falhas, inconsistências e riscos funcionais  
 
-• Análise de falhas, inconsistências e riscos
+- Versionamento e documentação com Git e GitHub  
 
-• Versionamento e documentação com Git e GitHub 
+Tenho como prioridade validar o comportamento do sistema, a consistência dos dados e o cumprimento dos requisitos, identificando falhas antes que impactem usuários ou o negócio. Possuo facilidade para compreender regras de negócio complexas e traduzi-las em cenários de teste claros, objetivos e rastreáveis.
 
-### 📌 Portfólio técnico com estudos de caso completos disponível no GitHub.
-
+📌 Confira meu portfólio técnico com estudos de caso completos nos repositórios deste perfil.
 ---
 
 ### 🌐 Vamos nos conectar?
